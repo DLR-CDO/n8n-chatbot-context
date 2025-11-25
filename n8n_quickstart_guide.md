@@ -71,10 +71,15 @@ Refer to the [official n8n RBAC documentation](https://docs.n8n.io/user-manageme
 
 
 # References Documents
-- Workflow creation guide - [WorkflowCreationHelp]()
-- Credential management - [n8nCredential]()
-- Comple n8n infrastructure setup - [N8n-infrastructure-setup.docx](https://cdostorageacct.blob.core.windows.net/n8n-chatbot/n8n_infrastructure_setup/n8n_infrastructure_setup.md)
-- Postgres backup & recovery - [n8n backup strategy.docx](https://cdostorageacct.blob.core.windows.net/n8n-chatbot/n8n_backup_strategy/n8n_backup_strategy.md)
-- N8n architecture overview - [n8n architecture understanding.docx](https://cdostorageacct.blob.core.windows.net/n8n-chatbot/n8n_infrastructure_setup/n8n_architecture_understanding.md)
-- N8n Git version control - [N8n-version-control.docx]([markdown/n8n_versioncontrol.md](https://cdostorageacct.blob.core.windows.net/n8n-chatbot/n8n_versioncontrol/n8n_versioncontrol.md))
+- Workflow creation guide - [workflow-creation-guide](https://github.com/DLR-CDO/n8n-chatbot-context/blob/main/n8n_workflow_guide.md)
+  
+- Credential management - [n8n-credential-guide](https://github.com/DLR-CDO/n8n-chatbot-context/blob/main/n8n_credential_guide.md)
+  
+- Complete n8n infrastructure setup - [n8n-infrastructure-setup](https://github.com/DLR-CDO/n8n-chatbot-context/blob/main/n8n_infrastructure_setup.md)
+
+- Postgres backup & recovery - [n8n-backup-strategy](https://github.com/DLR-CDO/n8n-chatbot-context/blob/main/n8n_backup_strategy.md)
+
+- N8n architecture overview - [n8n architecture understanding](https://github.com/DLR-CDO/n8n-chatbot-context/blob/main/n8n_architecture_understanding.md)
+  
+- N8n Git version control - [n8n-version-control](https://github.com/DLR-CDO/n8n-chatbot-context/blob/main/n8n_versioncontrol.md)
 
